@@ -138,6 +138,10 @@ Grafana подключена к Prometheus как Data Source.
 
 <img width="608" height="367" alt="image" src="https://github.com/user-attachments/assets/bf70608d-546b-4815-aa73-4d3e4c64a365" />
 
+### Вот так выглядит теперь наш dashboard
+
+<img width="941" height="676" alt="image" src="https://github.com/user-attachments/assets/bad19b4e-afb8-45ce-851b-2542e3a4ea8c" />
+
 
 ## 🐳 Docker
 
